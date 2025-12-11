@@ -1,0 +1,6 @@
+diff a/Conflict/conflicto.cs b/Conflict/conflicto.cs	(rejected hunks)
+@@ -6,2 +6,3 @@
+         print("HelloWorld");
+     }
+\ No newline at end of file
++}
